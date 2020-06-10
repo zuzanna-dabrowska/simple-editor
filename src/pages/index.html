@@ -9,9 +9,20 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
   </head>
   <body>
-    <div class="hello">
-      <img class="hello__logo" src="../assets/img/logo.svg" alt="WTF " />
-      <span class="hello__circles"></span>
-    </div>
+    <header class="editor__header">
+      <h1 class="editor__heading">Simple save-load editor</h1>
+    </header>
+    <main class="editor__main">
+      <p>
+        <textarea
+          class="editor__textarea"
+          id="yourSuggestion"
+          name="yourSuggestion"
+          placeholder="Write your story..."
+        ></textarea>
+      </p>
+      <button class="editor__button--save">Save</button>
+      <button class="editor__button--load">Load</button>
+    </main>
   </body>
 </html>
