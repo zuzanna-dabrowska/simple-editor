@@ -10,10 +10,18 @@
     &--save {
       width: 79px;
       height: 40px;
+      background: #121232;
+      color: #ffffff;
+      border-radius: 5px;
+      border: thin;
     }
     &--load {
       width: 79px;
       height: 40px;
+      border-radius: 5px;
+      border: #121232;
+      background:#ffffff;
+      color:#121232;
     }
   }
 }
