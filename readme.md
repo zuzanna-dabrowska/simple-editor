@@ -7,8 +7,8 @@ Simple toolkit to save your text in local storage and reload it.
 ## How to use it?
 
 Simply write something in the text area, click on save, later on refresh the page and click load to see your saved text.
+By using clear history button, you remove previously saved information.
 
-## In future...
+### In future...
 
-I'm working on adding a history and clear button
-
+I hope to add any possibility to view history without going to "Application --> Local Storage".
