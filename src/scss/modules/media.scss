@@ -30,8 +30,16 @@
             background: #121232;
             color: #ffffff;
             border-radius: 5px;
-            border: thin;
+            border: none;
             margin-right: 10px;
+          }
+          &--clear {
+            width: 79px;
+            height: 40px;
+            border-radius: 5px;
+            border-color: #121232;
+            background:#ffffff;
+            color:#121232;
           }
           &--load {
             width: 79px;
@@ -40,6 +48,7 @@
             border-color: #121232;
             background:#ffffff;
             color:#121232;
+            margin-right: 10px;
           }
         }
       }

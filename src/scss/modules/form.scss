@@ -19,9 +19,18 @@
       color: #ffffff;
       border-radius: 5px;
       border: thin;
-      margin-right: 5px;
+      margin-right: 10px;
     }
     &--load {
+      width: 53px;
+      height: 27px;
+      border-radius: 5px;
+      border-color: #121232;
+      background:#ffffff;
+      color:#121232;
+      margin-right: 10px;
+    }
+    &--clear {
       width: 53px;
       height: 27px;
       border-radius: 5px;
