@@ -1,18 +1,14 @@
 ![cover](https://cotenfrontend.pl/img/cover.png)
 
-# WTF Webpack Starter Kit 
+# Simple save-load editor
 
-Simple toolkit for your static websites development.
+Simple toolkit to save your text in local storage and reload it.
 
 ## How to use it?
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
+Simply write something in the text area, click on save, later on refresh the page and click load to see your saved text.
 
-## Available scripts
+## In future...
 
-`npm run start` - runs development mode
-
-`npm run build` - runs build process for production
-
-`npm run publish` - runs build process and publish the page using `gh-pages` branch
+I'm working on adding a history and clear button
 
