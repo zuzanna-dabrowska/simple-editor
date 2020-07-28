@@ -7,8 +7,13 @@
     height: 139px;
   }
   &__button {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    &--save {
+      width: 79px;
+      height: 40px;
+    }
+    &--load {
+      width: 79px;
+      height: 40px;
+    }
   }
 }
