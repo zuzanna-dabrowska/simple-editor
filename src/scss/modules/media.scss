@@ -1,0 +1,47 @@
+@media (min-width: 768px) {
+    body {
+        background: $wtf;
+        font-family: 'Open Sans', sans-serif;
+        font-style: italic;
+        font-size: 36;
+        color: #121232;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        box-sizing: border-box;
+      }
+      .editor {
+        &__heading {
+          text-align: center;
+        }
+        &__textarea {
+          width: 436px;
+          height: 139px;
+          border-radius: 5px;
+          border-color: #D3D4D8;
+        }
+        &__button {
+          display: flex;
+          justify-content: flex-end;
+          &--save {
+            width: 79px;
+            height: 40px;
+            background: #121232;
+            color: #ffffff;
+            border-radius: 5px;
+            border: thin;
+            margin-right: 10px;
+          }
+          &--load {
+            width: 79px;
+            height: 40px;
+            border-radius: 5px;
+            border-color: #121232;
+            background:#ffffff;
+            color:#121232;
+          }
+        }
+      }
+      
+}

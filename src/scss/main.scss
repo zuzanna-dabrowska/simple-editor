@@ -2,12 +2,13 @@
 
 @import "_variables";
 @import "modules/form.scss";
+@import "modules/media.scss";
 
 body {
   background: $wtf;
   font-family: 'Open Sans', sans-serif;
   font-style: italic;
-  font-size: 36;
+  font-size: 20;
   color: #121232;
   display: flex;
   justify-content: center;
