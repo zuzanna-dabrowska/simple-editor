@@ -6,4 +6,9 @@
     width: 436px;
     height: 139px;
   }
+  &__button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 }
