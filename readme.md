@@ -1,4 +1,4 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![cover](https://github.com/zuzanna-dabrowska/simple-editor/blob/master/public/save-load.png)
 
 # Simple save-load editor
 
